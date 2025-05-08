@@ -22,6 +22,7 @@ body {
 
 
 .Container {
+   max-width: 1500px;
     width: 100%;
     display: flex;
 }
@@ -124,8 +125,7 @@ aside {
 }
 
 .main-content {
-   max-width: 1200px;
-   width: 100%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     gap: 32px;
